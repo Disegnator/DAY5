@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PddAuto", "PddAuto\PddAuto.csproj", "{6D71D0E4-4BD2-46A9-89DF-BD4399D14D11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VIN_LIB", "VIN_LIB\VIN_LIB.csproj", "{A02BA7A8-DA58-4184-AED6-8CF4A9C86009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REG_MARK_LIB", "REG_MARK_LIB\REG_MARK_LIB.csproj", "{4A885227-33B0-491A-B10A-A5414F59862E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D71D0E4-4BD2-46A9-89DF-BD4399D14D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D71D0E4-4BD2-46A9-89DF-BD4399D14D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D71D0E4-4BD2-46A9-89DF-BD4399D14D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D71D0E4-4BD2-46A9-89DF-BD4399D14D11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02BA7A8-DA58-4184-AED6-8CF4A9C86009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02BA7A8-DA58-4184-AED6-8CF4A9C86009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02BA7A8-DA58-4184-AED6-8CF4A9C86009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02BA7A8-DA58-4184-AED6-8CF4A9C86009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A885227-33B0-491A-B10A-A5414F59862E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A885227-33B0-491A-B10A-A5414F59862E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A885227-33B0-491A-B10A-A5414F59862E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A885227-33B0-491A-B10A-A5414F59862E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93D4BFFC-60DF-4A19-86B1-C757CC841913}
+	EndGlobalSection
+EndGlobal
